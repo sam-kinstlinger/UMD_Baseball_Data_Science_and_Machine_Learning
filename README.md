@@ -7,7 +7,7 @@ Output: Personalized reports for each pitcher including numerical data as well a
 Skills Showcased: Pandas, Numpy, Matplotlib, Seaborn
 
 ### HitPredictor
-Input: Kinematic data of a pitch
+Input: Kinematic data of a pitch \n
 Output: Probability of the batter hitting the ball and getting on base
 Uses: Inform alterations to pitcher training
 Skills Showcased: Ensemble Learning, XGBoost, Deap Learning, treatment/analysis of data imbalances and skew
