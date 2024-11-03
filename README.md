@@ -5,7 +5,7 @@ Data science and machine learning projects I completed as part of the data team 
  - **Input:** Trackman sensor system data from a baseball game
  - **Output:** Personalized reports for each pitcher including numerical data as well as helpful visuals
  - **Uses:** Deployed to give to pitchers, trainers, and coaches to inform pitcher training
- - S**kills Showcased:** Pandas, Numpy, Matplotlib, Seaborn
+ - **Skills Showcased:** Pandas, Numpy, Matplotlib, Seaborn
 
 ### HitPredictor
  - **Input:** Kinematic data of a pitch
