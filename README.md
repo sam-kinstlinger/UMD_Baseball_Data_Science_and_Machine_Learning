@@ -3,7 +3,7 @@ This repository highlights data science and machine learning projects I develope
 
 # Projects
 
-### Pitcher_Colab
+### Pitcher_Collab
  - **Input:** Trackman sensor data collected during baseball games
  - **Output:** Customized reports for each pitcher, featuring both quantitative metrics and visual analyses
  - **Purpose:** Provides actionable insights for pitchers, trainers, and coaches to support targeted pitcher development
