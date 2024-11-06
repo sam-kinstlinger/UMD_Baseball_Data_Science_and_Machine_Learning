@@ -10,7 +10,7 @@ This repository highlights data science and machine learning projects I develope
  - **Skills Showcased:** Pandas, Numpy, Matplotlib, Seaborn
 
 ### HitPredictor
- - **Input:** Pitch kinematic data
+ - **Input:** Kinematic data of the ball post-contact
  - **Output:** Probability score predicting a batter’s likelihood of reaching base
- - **Purpose:** Guides adjustments in pitcher training based on hitting probabilities
+ - **Purpose:** Guides adjustments in batter training based on hitting probabilities
  - **Skills Showcased:** Ensemble Learning, XGBoost, Deep Learning, techniques for addressing data imbalance and skew
